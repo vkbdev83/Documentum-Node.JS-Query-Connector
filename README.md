@@ -10,7 +10,7 @@ Documentum DFC provides collection of Java APIs for accessing Documentum capabil
 Similar to DFC, a new node module (library) written in Java Script is developed for performing the DQL read capabilities of the Documentum.  This module could be used within your node.js application for execution of Documentum READ query and retrieve the data in JSON format.
 
 
-The below are the steps required to setup the Documentum node module within your node.js application
+The below are the steps required to setup the Documentum node connector within your node.js application
 
 1.	Download and Install the Node.js from the https://nodejs.org/en/download/
 
